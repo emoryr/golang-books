@@ -9,7 +9,7 @@ A repository to show how to create a DynamoDB with Golang in Amazon, providing a
 
 [Dynamo Library](https://github.com/guregu/dynamo) go get github.com/guregu/dynamo
 
-[Xid](https://github.com/rs/xid) go get github.com/rs/xid
+[Go Dynamock](github.com/gusaul/go-dynamock go get github.com/gusaul/go-dynamock
 
 
 
